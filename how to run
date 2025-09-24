@@ -1,0 +1,14 @@
+Step 1: start ryu controller 
+bash:
+ryu-manager my_ryucontroller.py
+
+  then run ryu with mininet's custom topology 
+bash: 
+  sudo mn --custom_topo.py --topo custom_tree_topo \ --controller=remote, ip=-127.0.0.1,port=663 --mac
+
+  to test connectivity 
+bash: 
+pingall :
+
+
+
