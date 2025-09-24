@@ -1,0 +1,7 @@
+Successful host-to-host communication with zero trut policies in place 
+packet forwarding is controlled by ryu, traffic monitoring and drop analysis performed. 
+
+future scope 
+integration of AI/ML for adaptive threat detection.
+scalling architecture for large enterprise network.
+expanding zero trust to include multi factor authentication (M.F.A) for host comunication 
